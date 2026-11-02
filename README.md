@@ -1,0 +1,1 @@
+# spicetify-music_scheduler
