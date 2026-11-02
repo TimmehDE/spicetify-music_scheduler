@@ -1,4 +1,4 @@
-# Spicetify Scheduler
+# Spicetify Music Scheduler
 
 A [Spicetify](https://spicetify.app) extension that starts music on a schedule: pick a playlist, a time and the weekdays, and the extension plays it for you, with volume control and smooth fades.
 
