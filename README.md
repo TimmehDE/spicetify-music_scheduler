@@ -52,3 +52,7 @@ To see the output of the extension, open the developer tools of the Spotify desk
 - [ ] Continuous integration with GitHub Actions (lint, test, build)
 - [ ] Automated releases from version tags
 - [ ] Publication in the Spicetify Marketplace
+
+## License
+
+This project is licensed under the MIT License.
