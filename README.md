@@ -38,9 +38,13 @@ The project is written in TypeScript and was generated with [Spicetify Creator](
 
 1. Clone this repository.
 2. Install the dependencies with `npm install`.
-3. See `package.json` for the available scripts.
+3. Build once with `npm run build`.
+4. Register the extension with `spicetify config extensions music-scheduler.js` and run `spicetify apply`.
+5. For live development, run `npm run watch` in one terminal and s`picetify watch -le` in another.
+6. `npm run build-local` writes the compiled files to a local `dist` folder.
 
-To see the output of the extension, open the developer tools of the Spotify desktop client with `Ctrl+Shift+I` and check the console.
+
+To see the console output of the extension, enable the developer tools with `spicetify enable-devtools`, then open them in Spotify (right-click, Inspect Element) and check the Console tab.
 
 ## Roadmap
 
