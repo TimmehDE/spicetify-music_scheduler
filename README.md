@@ -44,8 +44,8 @@ To see the output of the extension, open the developer tools of the Spotify desk
 
 ## Roadmap
 
-- [ ] Repository and project scaffold
-- [ ] Hello-world extension loaded in Spicetify
+- [ x] Repository and project scaffold
+- [ x] Hello-world extension loaded in Spicetify
 - [ ] Scheduling logic, separated from the Spicetify calls and covered by unit tests
 - [ ] Playback control: start a playlist, set the volume, fade in and out
 - [ ] User interface to manage schedules
